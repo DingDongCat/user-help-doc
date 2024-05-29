@@ -1,0 +1,3 @@
+import comp from "D:/VSCode/workspace/vuepress-starter/docs/.vuepress/.temp/pages/index.html.vue"
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"用户帮助文档\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"主页\",\"slug\":\"主页\",\"link\":\"#主页\",\"children\":[]},{\"level\":2,\"title\":\"单图片查看与测试\",\"slug\":\"单图片查看与测试\",\"link\":\"#单图片查看与测试\",\"children\":[]},{\"level\":2,\"title\":\"多图片测试配置\",\"slug\":\"多图片测试配置\",\"link\":\"#多图片测试配置\",\"children\":[]},{\"level\":2,\"title\":\"结果统计\",\"slug\":\"结果统计\",\"link\":\"#结果统计\",\"children\":[]},{\"level\":2,\"title\":\"设置\",\"slug\":\"设置\",\"link\":\"#设置\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"README.md\"}")
+export { comp, data }
